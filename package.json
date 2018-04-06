@@ -1,6 +1,10 @@
 {
   "name": "timestamp-fcc",
   "version": "1.0.0",
+  "engines": {
+    "node": "9.6.x",
+    "npm": "5.8.0"
+  },
   "description": "API Project #1: Timestamp microservice",
   "main": "server.js",
   "dependencies": {},
