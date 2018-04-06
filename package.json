@@ -1,15 +1,27 @@
 {
-  "name": "timestamp - FCC Backend API challenge",
+  "name": "timestamp-fcc",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API Project #1: Timestamp microservice",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvolfkind/timestamp-fcc.git"
+  },
+  "keywords": [
+    "fcc",
+    "node",
+    "api"
+  ],
   "author": "Rodo Raskovsky",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.15.2",
-    "moment": "^2.18.1"
-  }
+  "bugs": {
+    "url": "https://github.com/vvolfkind/timestamp-fcc/issues"
+  },
+  "homepage": "https://github.com/vvolfkind/timestamp-fcc#readme"
 }
