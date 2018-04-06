@@ -47,7 +47,7 @@ app.get('/*', function (req, res) {
 	}
 });
 app.listen(5600, function () {
-  console.log('Example app listening on port 5600!');
+  console.log('Microservice listening on port 5600!');
 });
 
 

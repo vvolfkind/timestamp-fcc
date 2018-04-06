@@ -1,12 +1,12 @@
 {
-  "name": "timestamp",
+  "name": "timestamp - FCC Backend API challenge",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Rodo Raskovsky",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
