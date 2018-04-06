@@ -46,8 +46,8 @@ app.get('/*', function (req, res) {
 		res.sendFile(__dirname + '/index.html');
 	}
 });
-app.listen(8080, function () {
-  console.log('Microservice listening on port 8080!');
+app.listen(80, function () {
+  console.log('Microservice listening on port 80!');
 });
 
 
